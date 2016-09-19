@@ -1,0 +1,29 @@
+_repo: Far-Off--Or-Asia-and-Australia-Described--13-With-Anecdotes-and-Illustrations_13011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mortimer, Favell Lee
+    birthdate: 1802
+    deathdate: 1878
+    gutenberg_agent_id: '4776'
+    url: http://www.gutenberg.org/2009/agents/4776
+    wikipedia: http://en.wikipedia.org/wiki/Favell_Lee_Mortimer
+description: '[Pt. 1] Asia and Australia described.--Pt. 2. Australia, Africa, and
+  America described.'
+gutenberg_issued: '2004-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Asia -- Description and travel'
+- !lcc 'DU'
+- !lcc 'DS'
+- !lcsh 'Australia -- Description and travel'
+- GITenberg
+title: "Far Off; Or, Asia and Australia Described\r\nWith Anecdotes and Illustrations"
+url: http://www.gutenberg.org/ebooks/13011
